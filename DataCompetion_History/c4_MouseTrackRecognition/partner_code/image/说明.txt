@@ -1,0 +1,5 @@
+对train数据处理之后，可视化分析，
+前5张图是位移X和时间t的关系分析，后5张是X和Y的关系
+其中，每组的前三张是人的行为，后两张是机器行为。
+关于特征值，我估计应该选择一下几个：
+序号,Xmin,Xmax,Tmin,Tmax,Ymin,Ymax,num,Xinit,Yinit,Xgoal,Ygoal,Xsucc,Ysucc,label
